@@ -1,1 +1,41 @@
 
+Table of Content
+1 Introduction [22.03.2021]
+	1.1 Background
+	1.2 Operation Research Applications 
+	1.3 Research goals and Contributions
+	1.4 Outline
+2 Literature Review [22.03.2021]
+2.1 Vehicle Routing Problem introduction
+2.2 Variants in Vehicle routing problem
+
+2.3 Exact algorithms
+	2.3.1 Integer Linear Programming
+	2.3.2 Dynamic Programming
+	2.4 Heuristic Approach
+		2.4.1 Constructive Heuristic
+			2.4.1.1 Nearest Neighbor Algorithm
+			2.4.1.2 Clarke-Wright Saving Algorithm
+		2.4.2 Improvement Heuristic
+			2.4.2.1 Intra-route heuristics
+	2.5 Metaheuristic Approach
+		2.5.1 Local search
+			2.5.1.1 variable neighborhood search
+		2.5.2 population search
+			2.5.2.1 Genetic Algorithm
+		2.5.3 Learning Mechanism
+			2.5.3.1 Artificial Intelligence
+			2.5.3.2 Ant Colony Optimization 
+
+3 Data Collection [29.03.2021]
+	3.1 Methodology and Current Advancements
+4 Solution to the Vehicle Routing Problem [05.04.2021]
+	4.1 Introduction to the Problem
+	4.2 Exact Algorithm: Integer Programming
+	4.3 Heuristic Algorithm: Nearest Neighbor Algorithm
+	4.4 Metaheuristic Algorithm: Genetic Algorithm
+	4.5 Artificial Intelligence in Vehicle Routing Problem
+	4.6 Comparison
+5 Proceeding
+
+
